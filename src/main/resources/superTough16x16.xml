@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<supertough16x16>
+	<sudoku id="0">
+		<row index="0">
+			<column changeable="false" index="0">11</column>
+			<column changeable="false" index="1">6</column>
+			<column changeable="false" index="7">2</column>
+			<column changeable="false" index="14">10</column>
+		</row>
+		<row index="1">
+			<column changeable="false" index="1">14</column>
+			<column changeable="false" index="3">4</column>
+			<column changeable="false" index="7">3</column>
+			<column changeable="false" index="8">12</column>
+			<column changeable="false" index="9">7</column>
+			<column changeable="false" index="11">13</column>
+		</row>
+		<row index="2">
+			<column changeable="false" index="0">9</column>
+			<column changeable="false" index="5">7</column>
+			<column changeable="false" index="7">15</column>
+			<column changeable="false" index="11">11</column>
+			<column changeable="false" index="12">5</column>
+			<column changeable="false" index="14">2</column>
+		</row>
+		<row index="3">
+			<column changeable="false" index="1">8</column>
+			<column changeable="false" index="2">16</column>
+			<column changeable="false" index="3">10</column>
+			<column changeable="false" index="6">14</column>
+			<column changeable="false" index="8">9</column>
+			<column changeable="false" index="10">5</column>
+			<column changeable="false" index="13">7</column>
+			<column changeable="false" index="14">1</column>
+		</row>
+		<row index="4">
+			<column changeable="false" index="0">7</column>
+			<column changeable="false" index="2">11</column>
+			<column changeable="false" index="3">6</column>
+			<column changeable="false" index="5">13</column>
+			<column changeable="false" index="8">16</column>
+			<column changeable="false" index="9">15</column>
+			<column changeable="false" index="10">12</column>
+			<column changeable="false" index="12">10</column>
+			<column changeable="false" index="14">14</column>
+		</row>
+		<row index="5">
+			<column changeable="false" index="2">12</column>
+			<column changeable="false" index="4">10</column>
+			<column changeable="false" index="6">1</column>
+			<column changeable="false" index="9">13</column>
+			<column changeable="false" index="11">9</column>
+			<column changeable="false" index="13">11</column>
+			<column changeable="false" index="14">6</column>
+			<column changeable="false" index="15">5</column>
+		</row>
+		<row index="6">
+			<column changeable="false" index="4">6</column>
+			<column changeable="false" index="5">12</column>
+			<column changeable="false" index="8">4</column>
+			<column changeable="false" index="9">10</column>
+			<column changeable="false" index="10">8</column>
+			<column changeable="false" index="13">1</column>
+			<column changeable="false" index="15">7</column>
+		</row>
+		<row index="7">
+			<column changeable="false" index="0">10</column>
+			<column changeable="false" index="6">9</column>
+			<column changeable="false" index="10">2</column>
+			<column changeable="false" index="12">16</column>
+			<column changeable="false" index="15">3</column>
+		</row>
+		<row index="8">
+			<column changeable="false" index="0">6</column>
+			<column changeable="false" index="3">11</column>
+			<column changeable="false" index="5">3</column>
+			<column changeable="false" index="9">1</column>
+			<column changeable="false" index="15">10</column>
+		</row>
+		<row index="9">
+			<column changeable="false" index="0">12</column>
+			<column changeable="false" index="2">13</column>
+			<column changeable="false" index="5">8</column>
+			<column changeable="false" index="6">7</column>
+			<column changeable="false" index="7">14</column>
+			<column changeable="false" index="10">15</column>
+			<column changeable="false" index="11">4</column>
+		</row>
+		<row index="10">
+			<column changeable="false" index="0">4</column>
+			<column changeable="false" index="1">16</column>
+			<column changeable="false" index="2">9</column>
+			<column changeable="false" index="4">1</column>
+			<column changeable="false" index="6">13</column>
+			<column changeable="false" index="9">6</column>
+			<column changeable="false" index="11">8</column>
+			<column changeable="false" index="13">12</column>
+		</row>
+		<row index="11">
+			<column changeable="false" index="1">1</column>
+			<column changeable="false" index="3">14</column>
+			<column changeable="false" index="5">4</column>
+			<column changeable="false" index="6">6</column>
+			<column changeable="false" index="7">12</column>
+			<column changeable="false" index="10">3</column>
+			<column changeable="false" index="12">15</column>
+			<column changeable="false" index="13">2</column>
+			<column changeable="false" index="15">11</column>
+		</row>
+		<row index="12">
+			<column changeable="false" index="1">11</column>
+			<column changeable="false" index="2">6</column>
+			<column changeable="false" index="5">2</column>
+			<column changeable="false" index="7">1</column>
+			<column changeable="false" index="9">4</column>
+			<column changeable="false" index="12">8</column>
+			<column changeable="false" index="13">10</column>
+			<column changeable="false" index="14">9</column>
+		</row>
+		<row index="13">
+			<column changeable="false" index="1">10</column>
+			<column changeable="false" index="3">16</column>
+			<column changeable="false" index="4">8</column>
+			<column changeable="false" index="8">15</column>
+			<column changeable="false" index="10">9</column>
+			<column changeable="false" index="15">2</column>
+		</row>
+		<row index="14">
+			<column changeable="false" index="4">12</column>
+			<column changeable="false" index="6">5</column>
+			<column changeable="false" index="7">16</column>
+			<column changeable="false" index="8">7</column>
+			<column changeable="false" index="12">3</column>
+			<column changeable="false" index="14">4</column>
+		</row>
+		<row index="15">
+			<column changeable="false" index="1">13</column>
+			<column changeable="false" index="8">8</column>
+			<column changeable="false" index="14">11</column>
+			<column changeable="false" index="15">16</column>
+		</row>
+	</sudoku>
+</supertough16x16>
